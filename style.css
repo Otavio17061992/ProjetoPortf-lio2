@@ -53,7 +53,7 @@ header {
     overflow: hidden;
     position: relative;
     animation: color 15s ease infinite;
-    background: #070707;
+    background: #2e074c;
 }
 
 
@@ -521,7 +521,7 @@ span {
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 
 .imgBoxMe img {
