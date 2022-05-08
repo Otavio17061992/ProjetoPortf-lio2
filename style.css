@@ -53,6 +53,7 @@ header {
     overflow: hidden;
     position: relative;
     animation: color 15s ease infinite;
+    background: #070707;
 }
 
 
@@ -263,6 +264,7 @@ header {
     color: #fff;
     border-bottom: solid 3px #7562E0;
     margin-bottom: 1rem;
+    padding-top: 15px;
 }
 
 .subTitle {
@@ -290,6 +292,7 @@ header {
     justify-content: center;
     gap: 1rem;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 .skill {
@@ -426,7 +429,6 @@ header {
     font-family: var(--outfit);
     margin-top: 15px;
     color: #fff;
-    text-transform: uppercase;
     color: #7562E0;
     font-size: 1.1rem;
     font-weight: 600;
@@ -435,7 +437,7 @@ header {
 .cardInfo p {
     color: #fff;
     font-size: 0.95rem;
-    margin-top: 6px;
+    
 }
 
 .buttonsCard {
