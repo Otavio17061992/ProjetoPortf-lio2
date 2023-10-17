@@ -1,6 +1,6 @@
 # ProjetoPortf-lio2
 
-<div>Link para Acessar o site: <a>https://otavio17061992.github.io/ProjetoPortf-lio2/</a></div>
+<a href="https://otavio17061992.github.io/ProjetoPortf-lio2/">Clique aqui para visitar Meu Portfólio</a>
 
 <h1>portfólio Atualizado</h1>
 
