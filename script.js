@@ -38,3 +38,16 @@ function activateForm(e) {
     e.preventDefault();
     alert('Formulário enviado com sucesso.')
 }
+/*
+<script>
+    // Função para criar estrelas aleatórias
+    function createStar() {
+      const star = document.createElement("div");
+      star.className = "star";
+      star.style.left = `${Math.random() * 100}%`; // Posição horizontal aleatória
+      document.body.appendChild(star);
+    }
+  
+    // Crie estrelas aleatórias a cada segundo
+    setInterval(createStar, 1000);
+  </script>*/
