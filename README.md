@@ -1,7 +1,5 @@
 # ProjetoPortf-lio2
 
-<a href="https://otavio17061992.github.io/ProjetoPortf-lio2/">Clique aqui para visitar Meu Portfólio</a>
-
 <h1>portfólio Atualizado</h1>
 
 <img src="https://user-images.githubusercontent.com/93503467/165438968-36c590d5-924f-4895-af96-b7ab0951c58c.png"/>
